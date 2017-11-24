@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c77b15933208d4963857994bb0272c7e
+timeCreated: 1485259902
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ObstaclePrefab: {fileID: 1301281697360058, guid: b0d73adee068242dd8073a78111dbe6a,
+      type: 2}
+  - PowerupPrefab: {fileID: 1289278187127976, guid: db62fa18db957437cbe187395d8f98c6,
+      type: 2}
+  - debuffcapPrefab: {fileID: 1082700335918610, guid: 20b1aaa4e5b2345ffab3b1a5efa6d441,
+      type: 2}
+  - ParentofPsystem: {instanceID: 0}
+  - dodgeCyl: {fileID: 1133051722568450, guid: f56dc4dbd261b4684bb25405cb774441, type: 2}
+  - duststorm: {instanceID: 0}
+  - workAround: {fileID: 1574935479623734, guid: 8977dd45207a6406799843942d46d35b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

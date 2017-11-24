@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8809c0dc5aba24fa989ba68e0744c9d3
+timeCreated: 1485860501
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MoveGroundScript: {instanceID: 0}
+  - scoreText: {fileID: 114802990267573260, guid: 4388e88304a5643d89728c379a59f8f7,
+      type: 2}
+  - timeText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

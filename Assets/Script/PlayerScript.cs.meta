@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c0c688fd470147a19d4a2bea57f96a5
+timeCreated: 1485508807
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _gameControlScript: {instanceID: 0}
+  - clip: {fileID: 8300000, guid: bebfb16e1d02441238373d9a2c1cb808, type: 3}
+  - canvas: {fileID: 224966804517444068, guid: 68c943bda7cc249ac974ef29fd4bb19e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
